@@ -2,6 +2,8 @@
 
 ## Tekton PipeLine 
 
+> [Tekton Piple Line](https://github.com/keepinmindsh/lines_kubernetes/tree/main/010_tekton_pipelines)
+
 ## Terraform 
 
 ## 프로메테우스 
