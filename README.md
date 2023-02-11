@@ -10,7 +10,11 @@
 
 ## Terraform 
 
+> [Terraform](https://github.com/keepinmindsh/lines_infra/tree/main/terraform)
+
 ## 프로메테우스 
+
+> [Prometheus](https://github.com/keepinmindsh/lines_infra/tree/main/prometheus)
 
 ## 그라파나 
 
