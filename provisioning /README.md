@@ -27,3 +27,4 @@ WAS, DBMS 등의 소프트웨어를 설치하고 세탕하여 실행할 수 있�
 데이터를 저장하고 관리할 수 있는 Storage 를 제공할 수 있다. 특히 클라우드에서는 제공하는 Storage 의 종류와 용도에 따라 다양한 방식의 제공이 이루어진다.
 
 > [jins-dev.tistory.com - 프로비저닝이란?](https://jins-dev.tistory.com/entry/%ED%94%84%EB%A1%9C%EB%B9%84%EC%A0%80%EB%8B%9DProvisioning-%EC%9D%B4%EB%9E%80)
+> [hong-yp-ml-records.tistory.com - 프로비저닝이란?](https://hong-yp-ml-records.tistory.com/125)
