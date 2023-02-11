@@ -19,3 +19,5 @@ $ terraform -version
 Terraform v1.3.8
 on darwin_arm64
 ```
+
+- GCP Terraform 계정 만들기 
