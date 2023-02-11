@@ -21,3 +21,7 @@ on darwin_arm64
 ```
 
 - GCP Terraform 계정 만들기 
+
+GCP의 Service Account을 Terraform을 기준으로 생성한다. 
+
+![Terraform Service Account](https://github.com/keepinmindsh/lines_infra/blob/main/terraform/terraform-account.png)
