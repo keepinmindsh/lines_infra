@@ -18,6 +18,8 @@
 
 ## 그라파나 
 
+> [Grafana](https://github.com/keepinmindsh/lines_infra/tree/main/grafana)
+
 ## Algo CD
 
 ## Spinnaker
