@@ -20,7 +20,7 @@
 
 > [Grafana](https://github.com/keepinmindsh/lines_infra/tree/main/grafana)
 
-## Algo CD
+## Argo CD
 
 ## Spinnaker
 
