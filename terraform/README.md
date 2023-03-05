@@ -26,6 +26,68 @@ GCP의 Service Account을 Terraform을 기준으로 생성한다.
 
 ![Terraform Service Account](https://github.com/keepinmindsh/lines_infra/blob/main/terraform/terraform-account.png)
 
+## Terraform Install 
 
+```shell
+$ terraform -help plan
+```
 
+```shell
+$ terraform -install-autocomplete
+```
+
+## Terraform Get Started 
+
+```yaml
+terraform {
+  required_providers {
+    docker = {
+      source  = "kreuzwerker/docker"
+      version = "~> 2.13.0"
+    }
+  }
+}
+
+provider "docker" {}
+
+resource "docker_image" "nginx" {
+  name         = "nginx:latest"
+  keep_locally = false
+}
+
+resource "docker_container" "nginx" {
+  image = docker_image.nginx.latest
+  name  = "tutorial"
+  ports {
+    internal = 80
+    external = 8000
+  }
+}
+```
+
+```shell
+$ terraform init 
+```
+
+```shell
+$ terraform plan 
+```
+
+```shell
+$ terraform apply 
+```
+
+```shell
+$ terraform destroy
+```
+
+```shell
+$ terraform fmt
+```
+
+```shell
+$ terraform validate
+Success! The configuration is valid.
+```
+> [VPC Network 구성](https://spacek82.tistory.com/60)  
 > [Terraform 해보기](https://jh3859025.medium.com/terraform-gcp-vm%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0-b9799585d1a)
