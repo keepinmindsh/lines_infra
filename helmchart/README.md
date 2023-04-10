@@ -59,3 +59,20 @@ deprecated: Whether this chart is deprecated (optional, boolean)
 annotations:
   example: A list of annotations keyed by name (optional).
 ```
+
+## [Helm Chart를 테스트 하는 방법](https://helm.sh/docs/topics/chart_tests/)
+
+## [Helm 으로 실제 실행된 결과까지 확인](https://helm.sh/docs/topics/library_charts/#use-the-simple-library-chart)
+
+## 실제 사용 용례
+
+### [Values](https://helm.sh/docs/chart_best_practices/values/)
+
+### [Templates](https://helm.sh/docs/chart_best_practices/templates/)
+
+#### [Values Files](https://helm.sh/docs/chart_template_guide/values_files/) 
+#### [Template Functions And Pipeline](https://helm.sh/docs/chart_template_guide/functions_and_pipelines/)
+#### [Template Function List](https://helm.sh/docs/chart_template_guide/function_list/) 
+#### [Flow Control](https://helm.sh/docs/chart_template_guide/control_structures/) 
+#### [Variables](https://helm.sh/docs/chart_template_guide/variables/)
+값을 다루는 방법과 range 즉 목록을 정의하는 방법에 대해서 정의한다. 
