@@ -97,3 +97,12 @@ Success! The configuration is valid.
 ### Kafka 
 
 - [Kafka's Provider](https://registry.terraform.io/providers/Mongey/kafka/latest/docs)
+
+## Terraform 공부 자료 
+
+- [Terraform Study 자료](https://developer.hashicorp.com/terraform/language/expressions/types)
+
+## 사용할때 체크해야할 사항 
+
+- [Google Cloud - Terraform 사용 권장사항](https://cloud.google.com/docs/terraform/best-practices-for-terraform?hl=ko)
+- [Module 단위 Terraform 구성시 검토사항](https://developer.hashicorp.com/terraform/language/modules/develop/composition)
