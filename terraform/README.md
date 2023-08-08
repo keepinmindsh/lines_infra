@@ -106,3 +106,4 @@ Success! The configuration is valid.
 
 - [Google Cloud - Terraform 사용 권장사항](https://cloud.google.com/docs/terraform/best-practices-for-terraform?hl=ko)
 - [Module 단위 Terraform 구성시 검토사항](https://developer.hashicorp.com/terraform/language/modules/develop/composition)
+- [Execute Terraform Command on multiple mudules at once](https://terragrunt.gruntwork.io/docs/features/execute-terraform-commands-on-multiple-modules-at-once/)
