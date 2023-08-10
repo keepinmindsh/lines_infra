@@ -94,9 +94,21 @@ Success! The configuration is valid.
 
 ## Provider 
 
-### Kafka 
+## AWS 
+
+- [aws memory db](https://registry.terraform.io/modules/terraform-aws-modules/memory-db/aws/latest)
+
+## GCP 
+
+
+## Other 
+
+
+#### Kafka 
 
 - [Kafka's Provider](https://registry.terraform.io/providers/Mongey/kafka/latest/docs)
+
+
 
 ## Terraform 공부 자료 
 
@@ -107,3 +119,7 @@ Success! The configuration is valid.
 - [Google Cloud - Terraform 사용 권장사항](https://cloud.google.com/docs/terraform/best-practices-for-terraform?hl=ko)
 - [Module 단위 Terraform 구성시 검토사항](https://developer.hashicorp.com/terraform/language/modules/develop/composition)
 - [Execute Terraform Command on multiple mudules at once](https://terragrunt.gruntwork.io/docs/features/execute-terraform-commands-on-multiple-modules-at-once/)
+
+## Terraform 공부하기 
+
+- [Apply Changes](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/aws-change#apply-changes)
