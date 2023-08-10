@@ -123,3 +123,7 @@ Success! The configuration is valid.
 ## Terraform 공부하기 
 
 - [Apply Changes](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/aws-change#apply-changes)
+
+### Elastic Cache VPC 설정 
+
+- [https://docs.aws.amazon.com/ko_kr/AmazonElastiCache/latest/red-ug/TroubleshootingConnections.html](https://docs.aws.amazon.com/ko_kr/AmazonElastiCache/latest/red-ug/TroubleshootingConnections.html)
