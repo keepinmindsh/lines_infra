@@ -98,8 +98,17 @@ Success! The configuration is valid.
 
 - [aws memory db](https://registry.terraform.io/modules/terraform-aws-modules/memory-db/aws/latest)
 
+### Amazon Web Service - AWS Provider 
+
+- [AWS Provider](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
+
 ## GCP 
 
+### Google Cloud Platform Provider 
+
+- [Google Cloud Platform Provider](https://registry.terraform.io/providers/hashicorp/google/latest/docs)
+  - [AWS Subnet 생성하기](https://terraform101.inflearn.devopsart.dev/cont/vpc-practice/vpc-practice-with-subnet/)
+  - [AWS Subnet - Resources](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/subnet)
 
 ## Other 
 
@@ -107,8 +116,6 @@ Success! The configuration is valid.
 #### Kafka 
 
 - [Kafka's Provider](https://registry.terraform.io/providers/Mongey/kafka/latest/docs)
-
-
 
 ## Terraform 공부 자료 
 
